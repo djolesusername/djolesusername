@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@b0fa754d-5136-4183-9e58-5be0b3b3a244)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **djolesusername/djolesusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
